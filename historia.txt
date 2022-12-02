@@ -1,3 +1,2 @@
-Esta es una prueba para git v3.
-
-Prueba de nuevos parrafos.
+Nombre: Angel Pérez
+Edad: 25 años
